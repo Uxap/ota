@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/uxap/ota/releases/download/v1.0.0-10/PhoneNotesRecorder.ipa</string>
+					<string>https://github.com/uxap/ota/releases/download/v1.0.0-11/PhoneNotesRecorderDev.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,11 +27,11 @@
 				<key>bundle-identifier</key>
 				<string>com.uxap.PhoneNotesRecorder</string>
 				<key>bundle-version</key>
-				<string>v1.0.0-10</string>
+				<string>v1.0.0-11</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>PhoneNotes Recorder v1.0.0-10</string>
+				<string>PhoneNotes Recorder v1.0.0-11 Dev</string>
 			</dict>
 		</dict>
 	</array>
